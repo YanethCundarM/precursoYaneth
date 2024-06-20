@@ -1,0 +1,2 @@
+# precursoYaneth
+Aqui realizare practicas
